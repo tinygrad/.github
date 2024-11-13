@@ -1,6 +1,6 @@
 welcome to tinygrad
 
-the main sub 9000 line tinygrad repo is [here](https://github.com/tinygrad/tinygrad)
+the main sub 10000 line tinygrad repo is [here](https://github.com/tinygrad/tinygrad)
 
 the sub 1000 line teenygrad repo is [here](https://github.com/tinygrad/teenygrad)
 
